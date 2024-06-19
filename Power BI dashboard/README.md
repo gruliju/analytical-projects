@@ -11,8 +11,8 @@
 
 Дашборд:
 
-![perfume_dashboard_page-0001](https://github.com/gruliju/analytical-projects/assets/73644596/910c99f7-75b1-4c27-8f2d-e25c72bf2bce)
-![perfume_dashboard_page-0002](https://github.com/gruliju/analytical-projects/assets/73644596/3b5e583e-bc38-4587-8f1c-ac1e581af04f)
+![perfume_dashboard_page-0001](https://github.com/gruliju/analytical-projects/assets/73644596/8fae7366-7749-4741-8c44-0172b0819f0c)
+![perfume_dashboard_page-0002](https://github.com/gruliju/analytical-projects/assets/73644596/c16ba41c-5a6c-4134-b138-64585c7ec039)
 
 
 ## Выводы
